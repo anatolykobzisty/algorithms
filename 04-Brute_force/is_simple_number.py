@@ -1,3 +1,12 @@
+'''
+   теория
+   https://youtu.be/DvsCUI5FNnI?t=3710
+
+   практика
+   https://youtu.be/DvsCUI5FNnI?t=3868
+'''
+
+
 def is_simple_number(x):
     ''' Определяет, является ли число простым,
         x - целое число.
